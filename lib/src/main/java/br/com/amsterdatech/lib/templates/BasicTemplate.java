@@ -1,5 +1,7 @@
 package br.com.amsterdatech.lib.templates;
 
+import br.com.amsterdatech.lib.strategies.Strategy;
+
 /**
  * Created by williamgouvea on 10/9/14.
  *

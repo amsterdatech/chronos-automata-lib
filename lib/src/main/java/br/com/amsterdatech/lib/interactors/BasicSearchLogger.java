@@ -1,7 +1,6 @@
 package br.com.amsterdatech.lib.interactors;
 
 import br.com.amsterdatech.lib.templates.BasicSearchTemplate;
-import br.com.amsterdatech.lib.templates.Strategy;
 
 /**
  * Created by williamgouvea on 10/9/14.

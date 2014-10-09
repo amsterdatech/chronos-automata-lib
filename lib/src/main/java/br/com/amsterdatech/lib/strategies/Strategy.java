@@ -1,4 +1,4 @@
-package br.com.amsterdatech.lib.templates;
+package br.com.amsterdatech.lib.strategies;
 
 /**
  * Created by williamgouvea on 10/9/14.
